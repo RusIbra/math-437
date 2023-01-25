@@ -4,7 +4,7 @@ author: "Math 437 - Modern Data Analysis"
 date: "Due January 25, 2023"
 output: pdf_document
 ---
-
+jhsigfisugd 
 # Instructions
 
 This is an R Markdown file. This file allows you to include both your R code and your commentary in a single file. All lab work - code and answers - should be done in this notebook.
